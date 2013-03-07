@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Jekyll | Whitewhim]]></title>
+  <link href="http://whitewhim2718.github.com/blog/categories/jekyll/atom.xml" rel="self"/>
+  <link href="http://whitewhim2718.github.com/"/>
+  <updated>2013-03-06T23:41:19-04:00</updated>
+  <id>http://whitewhim2718.github.com/</id>
+  <author>
+    <name><![CDATA[Whitewhim]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post Is Post]]></title>
+    <link href="http://whitewhim2718.github.com/blog/2013/03/04/test-post-is-post/"/>
+    <updated>2013-03-04T15:43:00-04:00</updated>
+    <id>http://whitewhim2718.github.com/blog/2013/03/04/test-post-is-post</id>
+    <content type="html"><![CDATA[<h2>Moving to Jekyll </h2>
+
+<p>Hello and welcome to my new blog. I've decided to move from my custom <a href="https://github.com/whitewhim2718/Custom-Built-Django-Blog">blog</a> built with Django over to a Jekyll based blog for a variety of reasons. First and foremost Jekyll is more extensible and has many pre-made custom plugins that allow me to add a variety of features to my blog without the need for me to write them myself. As I'm so busy these days this is a must if I'm every actually to get around to blogging.</p>
+
+<h2>Secondly</h2>
+
+<p>Jekyll generates a static site. This allows me to host my site at <a href="https://github.com/whitewhim2718/Custom-Built-Django-Blog">Github Pages</a> free of charge. More importantly this will allow me to take down the server that was previously used for hosting my old blog and repurpose it. Additionally the static nature of Jekyll allows the blog to remain super fast even under heavy load as the HTML, CSS and JS can be hosted by CDN and there is no server side processing to bottleneck serving requests.</p>
+
+<h2>Octopress </h2>
+
+<p>On top of Jekyll I am using <a href="octopress.org">Octopress</a> to build the blog. Octopress provides a ton of features that are not included in barebones Jekyll. Octopress gives has custom Rake scripts that allow easy blog management and deployment. Additionally custom blog features are built in such as archives, comments and RSS. This makes the design and setup of a static blog a snap.</p>
+
+<h2>Theming</h2>
+
+<p>Finally I want to give a shout-out to Pankaj Kumar in India for the use of his <a href="https://github.com/panks/fabric">Fabric theme</a>. It's clean and responsibe and exactly what I was looking for. I don't have a stylish bone in my body so I'm lucky he was thoughtful enough to open-source his theme.</p>
+
+<p><em>-Whitewhim</em></p>
+]]></content>
+  </entry>
+  
+</feed>
